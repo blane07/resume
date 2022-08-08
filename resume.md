@@ -51,3 +51,5 @@ Delta Air Lines | GA | 2012 - 2013
 - M.S. Aerospace Engineering | University of Illinois Champaign-Urbana | 2012
 - B.S. Aerospace Engineering | Illinois Institute of Technology	| 2011
 
+_Resume written in markdown and then converted to pdf using pandoc_
+
