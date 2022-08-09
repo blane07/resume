@@ -18,7 +18,6 @@ brendan.lane07@gmail.com
 - OWL
 
 ## Experience
-
 ### Lead Data Engineer
 Chubb, 2018 - Present
 
@@ -49,7 +48,6 @@ Delta Air Lines, 2012 - 2013
 - Responsible for resolving complex engineering problems related to an aircraft’s interior cabin
 
 ## Education
-
 | Degree | School | Graduation Year |
 | :-: | :-: | :-: |
 | Data Science Immersive | General Assembly NYC | 2018
