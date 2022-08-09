@@ -22,17 +22,18 @@ brendan.lane07@gmail.com
 Chubb, 2018 - Present
 
 - Leading a team to create the insurance industry's first knowledge graph
-- Create several ETL pipelines for unstructured data in NA, EMEA, APAC, and LATAM
+- Create several ETL unstructured data pipeline
   - Batch and streaming
   - On-premise and cloud infrastructure
-  - Written in a functional programming style to minimize production issues
+  - NA, EMEA, APAC, and LATAM regions
+  - Reduced production issues with functional programming
 - Extracted entities from unstructured data using NLP and ML
-  - Saved Chubb over $1 million
   - Random forest classifier
-- Identified Chubb's top prospective customers using Spark ML in Databricks
+  - Saved Chubb over $1 million
+- Identified top prospective customers
   - PCA and k-means clustering
-- Parallelized Chubb's custom text encryption algorithm in Spark
-  - Improved benchmark's runtime from 50,000 minutes to 20 minutes
+- Parallelized Chubb's custom text encryption algorithm
+  - Improved runtime from 50,000 to 20 minutes
 
 ### Captain
 United States Marine Corps, 2013 - 2017
