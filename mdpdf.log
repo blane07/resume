@@ -1,0 +1,3 @@
+    INFO: 2022-09-29 19:23:25,755:               log.py:   20: Logging to /Users/air/Documents/GitHub/resume/mdpdf.log
+   DEBUG: 2022-09-29 19:23:25,755:               cli.py:  103: resume.md
+    INFO: 2022-09-29 19:23:25,756:         converter.py:   14: resume.md
