@@ -1,7 +1,6 @@
 COVER LETTER
 
-I am a data engineer with 5 years of experience, have a M.S. in Aerospace Engineering, +5 years of Python experience, 5 years experience with processing big data with Spark on Databricks, and may one day buy a ticket to Mars. We need to advance the future and 
-enable life to become multiplanetary, and Starlink will help in transforming this vision into a reality. And I can increase the likelihood of Starlink's success with my skills.
+I am a data engineer with 5 years of experience, have a M.S. in Aerospace Engineering, +5 years of Python experience, 5 years experience with processing big data with Spark on Databricks, and may one day buy a ticket to Mars. We need to advance the future and enable life to become multiplanetary, and Starlink will help in transforming this vision into a reality. And I can increase the likelihood of Starlink's success with my skills.
 
 Thank you for your consideration,
 Brendan
