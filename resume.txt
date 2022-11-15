@@ -1,0 +1,40 @@
+DATA ENGINEER
+
+Brendan Lane
+(708) 623-4348
+brendan.lane07@gmail.com  
+10 Provost St, Unit 1207  
+Jersey City, NJ 07302  
+
+
+SKILLS
+✅ Spark, Python, Databricks, SQL, Delta Lake, Flask, Big Data, Streaming, HTML, Elm, Git, RDF Graphs, Kafka, SPRAQL, OWL
+
+
+EXPERIENCE
+✅ Lead Data Engineer, Chubb (2018 - Present)
+• Create several ETL data pipelines
+  • Batch and streaming
+  • Structured and unstructured data
+  • On-premise and cloud infrastructure
+  • Several regions to include NA, EMEA, APAC, and LATAM 
+  • Reduced production issues with functional programming
+• Extracted entities from unstructured data using NLP techniques and random forest classification (ML) to save Chubb over $1 million
+• Identified top prospective customers using PCA and k-means clustering
+• Parallelized a custom text encryption algorithm that reduced runtime from 50,000 to 20 minutes
+• Leading a team to create the insurance industry's first knowledge graph using RDF graph database technologies, while collaborating with Acord to create an insurance ontology
+
+✅ Captain, United States Marine Corps (2013 - 2017)
+• Served as an unmanned aircraft commander that planned, coordinated, and led over 200 flight hours
+• Replaced a team of statisticians, saving the USMC $500,000
+• Overseas deployment to the Philippines. Responsible for communications, logistics, medical support, the security of over 50 Marines, and $15 million worth of equipment, while leading aerial reconnaissance missions.
+
+✅ Aerospace Engineer, Delta Air Lines (2012 - 2013)
+• Responsible for resolving a pressing FAA compliance issue with the reliability of exterior markings and placards on aircraft
+
+
+EDUCATION
+✅ Data Science Immersive, General Assembly NYC (2018)
+✅ M.S. Aerospace Engineering, University of Illinois Champaign-Urbana (2012)
+✅ B.S. Aerospace Engineering, Illinois Institute of Technology (2011)
+
