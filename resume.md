@@ -1,8 +1,9 @@
 # Data Engineer
 Brendan Lane  
 (708) 623-4348  
-brendan.lane07@gmail.com    
-10 Provost St, Unit 1207, Jersey City, NJ 07302  
+brendan.lane07@gmail.com  
+10 Provost St, Unit 1207  
+Jersey City, NJ 07302  
 
 ## Skills
 Databricks, Python, Spark, SQL, ETL, Git, RDF Graphs, Kafka, SPRAQL, OWL
