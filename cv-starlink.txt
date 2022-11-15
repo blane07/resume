@@ -1,0 +1,77 @@
+COVER LETTER
+
+I am a data engineer with 5 years of experience, have a M.S. in Aerospace Engineering, +5 years of Python experience, 5 years experience with processing big data with Spark on Databricks, and may one day buy a ticket to Mars. We need to advance the future and 
+enable life to become multiplanetary, and Starlink will help in transforming this vision into a reality. And I can increase the likelihood of Starlink's success with my skills.
+
+Thank you for your consideration,
+Brendan
+
+~~~
+
+COVER LETTER FORMAT
+
+(i) Who you are, what you want, and what you believe in.
+(ii) Transition
+(iii) Skill & Qualification Match
+(vi) Why do you want to work there?
+(v) Conclusion
+
+~~~
+
+ANALYZING THE JOB DESCRIPTION
+
+Bachelor's degree in computer science, data science, engineering, math, physics, or scientific discipline; OR 2+ years of professional experience building software
+- BS and MS in aero eng. 5 years as a data engineer.
+
+Experience in full stack development, software engineering, data engineering, or data science
+- Trained data scientist - General Assembly 2018. Data engineer at Chubb for past 5 years. Daily databricks (spark) experience.
+
+Develop highly reliable and scalable data pipelines to empower engineers across SpaceX
+- Created data pipelines that have +18 month uptime with no production issues via functional programming style
+
+Create new applications that improve how the business at SpaceX operates
+- Create simple data visualizations in databricks (spark) to give non-technical audience a better understanding of data
+
+Collaborate with peers on architecture, design, and code reviews
+- Lead data pipeline project where I created the architecture with a team and implemented the design
+
+Programming experience in Python, C#, Java, Scala, Go or similar languages
+- +5 years with Python
+
+Experience working with in-stream, big data processing and analytics using Apache Kafka, Spark, Flink, SQL or similar
+- Spark structured streaming with joins. Batch processing with big data using Spark (databricks (spark))
+
+Experience with relational and non-relational databases, data lakes e.g. HBase, Hive, Delta Lake, PostgreSQL, CockroachDB or similar
+- Delta Lake and PostgreSQL
+
+Experience with data exploration tools like Grafana, Jupyter Notebooks, Metabase, PowerBI or similar
+- Jupyter Notebook and databricks data vis UI
+
+Good understanding of version control, testing, continuous integration, build, deployment and monitoring
+- 
+
+Some front-end experience in Angular, React, or similar JavaScript framework
+- Created dev UIs using Python's Flask and HTML
+
+Good understanding of statistics, machine learning algorithms and frameworks
+- Data science bootcamp taught supervised and unsupervised ML algorithms and stats. Used random forest classification, PCA, and k means clustering to create value at current company.
+
+~~~
+
+IDENTIFYING WHAT TO INCLUDE IN YOUR COVER LETTER
+
+What is the company’s mission?
+Ultimate goal of enabling human life on Mars
+
+What problem are they trying to solve?
+Internet everywhere on Earth
+
+What’s the product?
+Starlink. Talk about the RV version?
+
+What’s unique about this company compared to its competitors?
+They can build the satellites and launch them on their rockets. Move to Mars for $500k.
+
+What are some policies or values that the company has that they feature on their homepage?
+To advance the future. Innovation, commitment, visionary mindset, and conserving the planet - "solutions that can offer sustainable and energy-efficient solutions to release the pressure humans have been inflicting upon the ecosystem"
+
