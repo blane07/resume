@@ -17,7 +17,7 @@ EXPERIENCE
   • Batch and streaming
   • Structured and unstructured data
   • On-premise and cloud infrastructure
-  • Several regions to include NA, EMEA, APAC, and LATAM 
+  • Several regions to include North America, Europe, Latin America, and Austria
   • Reduced production issues with functional programming
 • Extracted entities from unstructured data using NLP techniques and random forest classification (ML) to save Chubb over $1 million
 • Identified top prospective customers using PCA and k-means clustering
